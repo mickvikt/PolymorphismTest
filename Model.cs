@@ -1,0 +1,1 @@
+public record Model(DateTime date);
